@@ -376,7 +376,7 @@ body {
     display: inline-block;
     pointer-events: all;
     margin-right: 3.5rem;
-    padding-left: 1rem;
+    /* padding-left: 1rem; */
 }
 
 .cnav .logo-holder img {
